@@ -1,2 +1,2 @@
-# Books
-This repository has some books that I would recommend you to read.
+# Books and etc...
+This repository has some books and PDF files that I would recommend you to read.
